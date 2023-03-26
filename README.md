@@ -1,2 +1,2 @@
 # js-backend-server
-Javascript Backend Server
+Learning Javascript Backend Server
